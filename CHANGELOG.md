@@ -2,6 +2,13 @@ All notable changes to this project will be documented here.
 Format based on [Keep a Changelog](https://keepachangelog.com).
 Versioning follows MAJOR.MINOR.PATCH.
 
+## [0.1.2] — 2025-12-10
+
+### Added
+- SOW-TFG-2026-SCP-RACO v1.0 created
+- Project scope formally defined
+- Six specific objectives established
+
 ## [0.1.1] — 2025-11-14
 
 ### Added
