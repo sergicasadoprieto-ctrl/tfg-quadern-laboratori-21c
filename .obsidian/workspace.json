@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-governance/SOW-TFG-2026-SCP-RACO-v1.0.md",
+                "file": "CHANGELOG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOW-TFG-2026-SCP-RACO-v1.0"
+              "title": "CHANGELOG"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "a4f194af3c7661aa",
   "lastOpenFiles": [
+    "00-governance/SOW-TFG-2026-SCP-RACO-v1.0.md",
     "CHANGELOG.md",
     "02-framework/templates/TPL-ZN.md",
     "02-framework/templates/TPL-RPT.md",
@@ -194,7 +195,6 @@
     "00-governance/tfg-branding-manifest-1.0.yaml.md",
     "00-governance/tfg-project-manifest-1.1.yaml.md",
     "00-governance/sergi-casado-profile-1.0.yaml.md",
-    "00-governance/SOW-TFG-2026-SCP-RACO-v1.0.md",
     "01-literature/notes/ZN-20251114T100000-SCP-1.00.md",
     "01-literature/README.md",
     "01-literature/notes/Sin nombre",

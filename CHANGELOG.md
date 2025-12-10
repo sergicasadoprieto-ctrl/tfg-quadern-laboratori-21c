@@ -28,6 +28,7 @@ Versioning follows MAJOR.MINOR.PATCH.
 
 ### Added
 - SOW-TFG-2026-SCP-RACO v1.0 created
+- docs: update SOW to v0.9 with full project scope v0.1.2
 - Project scope formally defined
 - Six specific objectives established
 
