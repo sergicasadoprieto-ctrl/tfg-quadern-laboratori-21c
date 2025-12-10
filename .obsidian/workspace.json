@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHANGELOG.md",
+                "file": "00-governance/SOW-TFG-2026-SCP-RACO-v1.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CHANGELOG"
+              "title": "SOW-TFG-2026-SCP-RACO-v1.0"
             }
           }
         ]
@@ -185,11 +185,11 @@
   },
   "active": "a4f194af3c7661aa",
   "lastOpenFiles": [
+    "CHANGELOG.md",
     "02-framework/templates/TPL-ZN.md",
     "02-framework/templates/TPL-RPT.md",
     "02-framework/templates/TPL-PROJ.md",
     "02-framework/templates/TPL-LOG.md",
-    "CHANGELOG.md",
     "02-framework/templates",
     "00-governance/tfg-branding-manifest-1.0.yaml.md",
     "00-governance/tfg-project-manifest-1.1.yaml.md",
