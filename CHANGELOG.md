@@ -2,6 +2,20 @@ All notable changes to this project will be documented here.
 Format based on [Keep a Changelog](https://keepachangelog.com).
 Versioning follows MAJOR.MINOR.PATCH.
 
+## [0.1.3] — 2026-01-15
+
+### Added
+- Governance manifests v1.0 created
+- sergi-casado-profile-1.0.yaml
+- tfg-project-manifest-1.1.yaml
+- tfg-branding-manifest-1.0.yaml
+- KOM milestone reached
+## [0.1.3] — 2026-01-15
+
+### Added
+- Governance manifests v1.0 created
+- User profile, project manifest, branding manifest
+- KOM milestone reached
 ## [0.1.2] — 2025-12-10
 
 ### Added
