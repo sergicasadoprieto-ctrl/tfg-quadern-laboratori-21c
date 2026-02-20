@@ -2,6 +2,14 @@ All notable changes to this project will be documented here.
 Format based on [Keep a Changelog](https://keepachangelog.com).
 Versioning follows MAJOR.MINOR.PATCH.
 
+## [0.1.4] — 2026-02-20
+
+### Added
+- 02-framework/templates/ created
+- TPL-LOG.md: Laboratory log template
+- TPL-ZN.md: Zettel Note template
+- TPL-RPT.md: Weekly report template
+- TPL-PROJ.md: Project initialisation template
 ## [0.1.3] — 2026-01-15
 
 ### Added
