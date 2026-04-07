@@ -1,0 +1,171 @@
+## =============================================================================
+## TFG PROJECT BRANDING MANIFEST (PBM)
+## File: tfg-branding-manifest-1.1.yaml
+## Context: TFG – IMB-CNM / UAB
+## Version: 1.1
+## Date: 2026-04-07
+## Status: ACTIVE
+## Description: >
+## Visual identity for the TFG "El Quadern de Laboratori del Segle XXI".
+## Simple, modern, documentation-centric branding.
+## =============================================================================
+
+branding:
+  "@context": "https://schema.org"
+  "@type": "Brand"
+  name: "TFG – El Quadern de Laboratori del Segle XXI"
+  alternateName: "TFG-QL21"
+  description: >
+    Visual identity for a methodological academic project focused on
+    scientific documentation, knowledge management, and reproducibility.
+
+  mainEntity:
+    "@type": "VisualArtwork"
+    artform: "Digital"
+    genre: "Academic Documentation"
+
+## ---------------------------------------------------------------------------
+## COLOUR PALETTE
+## ---------------------------------------------------------------------------
+palette:
+  primary:
+    name: "Deep Green"
+    hex: "#1B5E20"
+    usage:
+      - headings
+      - titles
+      - key structural elements
+
+  secondary:
+    name: "Soft Green"
+    hex: "#4CAF50"
+    usage:
+      - section dividers
+      - subtle backgrounds
+      - diagrams
+
+  accent:
+    name: "Warm Orange"
+    hex: "#F57C00"
+    usage:
+      - highlights
+      - callouts
+      - emphasis boxes
+      - links hover
+
+  error:
+    name: "Deep Red"
+    hex: "#B71C1C"
+    usage:
+      - error states
+      - high friction indicators
+      - without-AI pipeline diagrams
+
+  neutral:
+    dark: "#263238"
+    light: "#FAFAFA"
+    muted: "#9E9E9E"
+
+## ---------------------------------------------------------------------------
+## TYPOGRAPHY
+## ---------------------------------------------------------------------------
+typography:
+  primaryFont:
+    family: "Inter"
+    fallback: ["Helvetica", "Arial", "sans-serif"]
+    weight:
+      regular: 400
+      medium: 500
+      bold: 700
+
+  headings:
+    fontFamily: "Inter"
+    weight: 700
+    letterSpacing: "-0.02em"
+    color: "#1B5E20"
+
+  body:
+    fontFamily: "Inter"
+    weight: 400
+    lineHeight: 1.6
+    color: "#263238"
+
+  code:
+    fontFamily: "JetBrains Mono"
+    fallback: ["Fira Code", "monospace"]
+    background: "#F5F5F5"
+
+## ---------------------------------------------------------------------------
+## ASSETS (MINIMAL)
+## ---------------------------------------------------------------------------
+assets:
+  logo:
+    description: >
+      Text-based logo. No institutional logo to avoid confusion with
+      production or official CSIC branding.
+    textMark: "QL21"
+    style: "Typographic"
+    color: "#1B5E20"
+
+  favicon:
+    shape: "circle"
+    background: "#1B5E20"
+    foreground: "#FFFFFF"
+    text: "QL"
+
+## ---------------------------------------------------------------------------
+## DOCUMENTATION STYLE
+## ---------------------------------------------------------------------------
+documentation:
+  format: "Markdown with YAML frontmatter"
+  style: "Automatic Summary (AS)"
+  emphasisStyle:
+    highlights: "accent"
+    warnings: "neutral.dark"
+    notes: "secondary"
+
+  footer: >
+    ---
+    Treball de Final de Grau · Universitat Autònoma de Barcelona
+    IMB-CNM-CSIC (Pilot Environment)
+    © 2026 · Methodological Academic Project
+
+## ---------------------------------------------------------------------------
+## MARP / SLIDES DEFAULTS
+## ---------------------------------------------------------------------------
+marp:
+  theme: "default"
+  size: "16:9"
+  backgroundColor: "#FAFAFA"
+  paginate: true
+  transition: "fade"
+  footer: "TFG · El Quadern de Laboratori del Segle XXI"
+
+  style: |
+    section {
+      font-family: 'Inter', Helvetica, Arial, sans-serif;
+      color: #263238;
+    }
+    h1, h2, h3 {
+      color: #1B5E20;
+      font-weight: 700;
+    }
+    strong {
+      color: #1B5E20;
+    }
+    a {
+      color: #F57C00;
+    }
+    code {
+      background-color: #F5F5F5;
+    }
+
+## ---------------------------------------------------------------------------
+## BRANDING CONSTRAINTS
+## ---------------------------------------------------------------------------
+constraints:
+  institutionalLogos: "Forbidden"
+  productionVisualLanguage: "Forbidden"
+  goal: "Clarity, sobriety, academic credibility"
+
+---

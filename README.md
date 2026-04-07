@@ -8,8 +8,7 @@ Project initialised. Phase I in progress.
 
 ## Context
 
-TFG project at IMB-CNM-CSIC / Universitat Autònoma 
-de Barcelona, 2025-2026.
+TFG project at IMB-CNM-CSIC / Universitat Autònoma de Barcelona, 2025-2026.
 
 - Student: Sergi Casado Prieto
 - CSIC Tutor: Esteve Farrés Berenguer

@@ -1,0 +1,203 @@
+## =============================================================================
+## RACO USER MANIFEST: SERGI CASADO PRIETO
+## File: sergi-casado-profile-1.1.yaml
+## Context: IMB-CNM Knowledge Management Strategy / RACO Federation
+## Version: 1.1
+## Date: 2026-04-07
+## Status: ACTIVE (TFG)
+## Description: >
+## Human Actor definition (Student) for the RACO Federation.
+## Limited-scope profile for TFG execution under strict confidentiality.
+## =============================================================================
+
+user-profile-manifest:
+  "@context": "https://schema.org"
+  "@type": "Person"
+  "@id": "user-sergi-casado"
+  id: sergi-casado-profile-1.1
+
+  ## ---------------------------------------------------------------------------
+  ## 1. IDENTITY
+  ## ---------------------------------------------------------------------------
+  name: "Sergi Casado Prieto"
+  alternateName: "sergi.casado"
+  acronym: "SCP"
+  description: >
+    Final-year undergraduate student in Telecommunications Engineering.
+    Acting as TFG researcher and documentation framework designer
+    under RACO governance at IMB-CNM-CSIC.
+  identity:
+    givenName: "Sergi"
+    familyName: "Casado Prieto"
+    gender: "Male"
+
+  contact:
+    email: "sergicasadoprieto@gmail.com"
+    telephone: "[available on request]"
+    address:
+      "@type": "PostalAddress"
+      addressRegion: "Barcelona"
+      addressCountry: "Spain"
+
+  jobTitle: "TFG Student / Research Intern"
+  timezone: "Europe/Madrid"
+  location: "Spain"
+
+  ## ---------------------------------------------------------------------------
+  ## 2. ORGANIZATION & AFFILIATION
+  ## ---------------------------------------------------------------------------
+  worksFor:
+    "@type": "Organization"
+    name: "IMB-CNM-CSIC (Instituto de Microelectrónica de Barcelona)"
+    url: "https://www.imb-cnm.csic.es"
+    department: "ICTS"
+    roleName: "TFG Student (Non-Employee)"
+
+  alumniOf:
+    - "@type": "EducationalOrganization"
+      name: "Universitat Autònoma de Barcelona"
+      description: "BSc in Telecommunications Systems Engineering (TFG in progress)"
+
+  ## ---------------------------------------------------------------------------
+  ## 3. ACADEMIC & PROJECT CONTEXT
+  ## ---------------------------------------------------------------------------
+  projectContext:
+    "@type": "CreativeWork"
+    name: "Treball de Final de Grau (TFG)"
+    description: >
+      Development and validation of a modern documentation framework
+      for experimental research projects, using RACO as methodological
+      reference.
+    startDate: "2026-01-15"
+    endDate: "2026-06-21"
+    supervisor:
+      "@type": "Person"
+      name: "Esteve Farrés Berenguer"
+      affiliation: "IMB-CNM-CSIC"
+    academicTutor:
+      "@type": "Person"
+      name: "Francisco José Fabra Cervellera"
+      affiliation: "Universitat Autònoma de Barcelona"
+
+  ## ---------------------------------------------------------------------------
+  ## 4. KNOWLEDGE DOMAIN
+  ## ---------------------------------------------------------------------------
+  knowsAbout:
+    - "Scientific Documentation Methodology"
+    - "Knowledge Management in Research"
+    - "FAIR Principles"
+    - "Open Science Practices"
+    - "Electronic Lab Notebooks (ELN)"
+    - "Git-based Version Control"
+    - "Markdown and LaTeX"
+    - "Basic Research Reproducibility Concepts"
+    - "RF and Microwave Engineering (Background)"
+    - "MATLAB"
+    - "Electromagnetic Simulation (ADS, FEKO)"
+
+  ## ---------------------------------------------------------------------------
+  ## 5. CLEARANCE & SCOPE (STRICT)
+  ## ---------------------------------------------------------------------------
+  clearance:
+    "@type": "DefinedTerm"
+    name: "Access Clearance"
+    description: "L1-Restricted (Student)"
+    authorizedProjects:
+      - "raco-knowledge-management"
+      - "tfg-documentation-framework"
+
+  scopeLimitations:
+    - "No access to BACO production systems"
+    - "No access to fabrication RUN data"
+    - "No access to confidential process recipes"
+    - "Documentation and methodology only"
+
+  ## ---------------------------------------------------------------------------
+  ## 6. EXECUTION CONTEXT
+  ## ---------------------------------------------------------------------------
+  ExecutionContext:
+    "@type": "DefinedTermSet"
+    primaryFocus:
+      "@type": "DefinedTerm"
+      name: "Primary Focus"
+      description: >
+        Design and validation of a documentation framework
+        for research projects.
+    secondaryFocus:
+      "@type": "DefinedTerm"
+      name: "Secondary Focus"
+      description: >
+        Application of FAIR and Open Science principles
+        in a real research environment.
+    activeWorkPackage:
+      "@type": "DefinedTerm"
+      name: "TFG-WP"
+      description: "TFG Execution and Documentation"
+
+  ## ---------------------------------------------------------------------------
+  ## 7. ENVIRONMENT & TOOLS (NON-PRODUCTION)
+  ## ---------------------------------------------------------------------------
+  environment:
+    os: "Linux / Windows (Personal)"
+    hasPart:
+      - "@type": "SoftwareApplication"
+        name: "Git"
+        applicationCategory: "Version Control"
+      - "@type": "SoftwareApplication"
+        name: "GitHub"
+        applicationCategory: "Remote Repository"
+      - "@type": "SoftwareApplication"
+        name: "Obsidian"
+        applicationCategory: "Knowledge Management"
+      - "@type": "SoftwareApplication"
+        name: "Zotero"
+        applicationCategory: "Reference Management"
+      - "@type": "SoftwareApplication"
+        name: "Visual Studio Code"
+        applicationCategory: "Editor"
+      - "@type": "SoftwareApplication"
+        name: "LaTeX"
+        applicationCategory: "Typesetting"
+      - "@type": "SoftwareApplication"
+        name: "Markdown"
+        applicationCategory: "Documentation"
+      - "@type": "SoftwareApplication"
+        name: "Marp"
+        applicationCategory: "Presentation"
+      - "@type": "SoftwareApplication"
+        name: "Python"
+        applicationCategory: "Data Analysis"
+
+  ## ---------------------------------------------------------------------------
+  ## 8. INTERACTION PREFERENCES
+  ## ---------------------------------------------------------------------------
+  potentialAction:
+    "@type": "Action"
+    name: "InteractionStyle"
+    instrument:
+      "@type": "DefinedTermSet"
+      conciseness: "Medium"
+      technicalDepth: "Intermediate"
+      collaborationStyle: "Supervised"
+      preferredOutputFormat: "Markdown with YAML frontmatter"
+
+  ## ---------------------------------------------------------------------------
+  ## 9. CONFIDENTIALITY & LEGAL
+  ## ---------------------------------------------------------------------------
+  confidentiality:
+    "@type": "DefinedTerm"
+    name: "CSIC Confidentiality Agreement"
+    description: >
+      Bound by signed CSIC confidentiality and IP agreement.
+      No disclosure or reuse of confidential information
+      without written approval.
+
+  ## ---------------------------------------------------------------------------
+  ## 10. STATUS
+  ## ---------------------------------------------------------------------------
+  lifecycleStatus:
+    phase: "TFG Execution"
+    reviewGate: "KOM"
+    expectedClosure: "TFG Defence"
+
+---

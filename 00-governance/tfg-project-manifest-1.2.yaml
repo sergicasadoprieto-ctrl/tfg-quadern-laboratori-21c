@@ -1,0 +1,141 @@
+## =============================================================================
+## TFG PROJECT MANIFEST
+## File: tfg-project-manifest-1.2.yaml
+## Context: IMB-CNM Knowledge Management Strategy / RACO Federation
+## Version: 1.2
+## Date: 2026-04-07
+## Status: ACTIVE
+## Description: >
+## Project manifest for the TFG "El Quadern de Laboratori del Segle XXI".
+## Methodological, non-production project under strict confidentiality.
+## =============================================================================
+
+project-manifest:
+  "@context": "https://schema.org"
+  "@type": "Project"
+  "@id": "tfg-quadern-laboratori-21c"
+  id: "tfg-quadern-laboratori-21c"
+
+  ## ---------------------------------------------------------------------------
+  ## 1. IDENTIFICATION
+  ## ---------------------------------------------------------------------------
+  name: "El Quadern de Laboratori del Segle XXI"
+  acronym: "TFG-QL21"
+  description: >
+    Development and validation of a modern, reusable documentation framework
+    for experimental research projects in nanoscience research. The project
+    focuses on knowledge management, traceability, and reproducibility, using
+    the RACO project objectives as methodological references.
+    No production or confidential technical data are included.
+
+  schema:
+    "@context": "https://schema.org"
+    "@type": "InternalProject"
+
+  ## ---------------------------------------------------------------------------
+  ## 2. OWNERSHIP & GOVERNANCE
+  ## ---------------------------------------------------------------------------
+  contactPoint:
+    "@type": "ContactPoint"
+    name: "Esteve Farrés Berenguer"
+    memberOf: "IMB-CNM-CSIC"
+    email: "esteve.farres@imb-cnm.csic.es"
+    telephone: "+34 93 594 77 00"
+
+  governance:
+    model: "RACO / ECSS-M"
+    statementOfWork: "SOW-TFG-2026-SCP-RACO-v1.1"
+    scopeRule: "If it is not in the SOW, it is out of scope."
+    reviewGates:
+      - "KOM"
+      - "Midterm Review"
+      - "TFG Defence"
+
+  ## ---------------------------------------------------------------------------
+  ## 3. PILOT ENVIRONMENT (ABSTRACTED)
+  ## ---------------------------------------------------------------------------
+  pilotEnvironment:
+    hostInstitution: "IMB-CNM-CSIC"
+    nature: "Research Centre (Restricted)"
+    usage:
+      - "Knowledge management practices"
+      - "Documentation structure and metadata"
+      - "RACO framework (conceptual use)"
+    exclusions:
+      - "BACO production workflows"
+      - "Fabrication RUNs"
+      - "Process recipes or parameters"
+      - "Operational or executable YAML"
+
+  ## ---------------------------------------------------------------------------
+  ## 4. DIGITAL LOCATIONS
+  ## ---------------------------------------------------------------------------
+  urls:
+  repositoryGit: "https://github.com/sergicasadoprieto-ctrl/tfg-quadern-laboratori-21c-"
+  documentationSite: "https://sergicasadoprieto-ctrl.github.io/tfg-quadern-laboratori-21c-/"
+
+  ## ---------------------------------------------------------------------------
+  ## 5. DOCUMENTATION SETTINGS
+  ## ---------------------------------------------------------------------------
+  documentation:
+    footer: >
+      ---
+      © 2026 IMB-CNM-CSIC & Universitat Autònoma de Barcelona.
+      Treball de Final de Grau – Methodological Project.
+      All rights reserved.
+    format: "Markdown with YAML frontmatter"
+    style: "Automatic Summary (AS)"
+    license: "CC-BY-4.0 (textual content only)"
+
+  ## ---------------------------------------------------------------------------
+  ## 6. RACO FEDERATION ALIGNMENT
+  ## ---------------------------------------------------------------------------
+  federation:
+    alignment: "v3.0"
+    knowledgeManagement:
+      zettelNotes: true
+      automaticSummary: true
+      singleSourceOfTruth: true
+    workflow:
+      collaborationStyle: "Supervised"
+      outputFormat: "Markdown with YAML frontmatter"
+      confidentialityMode: "Restricted"
+
+  ## ---------------------------------------------------------------------------
+  ## 7. PARTICIPANTS
+  ## ---------------------------------------------------------------------------
+  participants:
+    student:
+      "@type": "Person"
+      name: "Sergi Casado Prieto"
+      role: "TFG Student / Author"
+    supervisor:
+      "@type": "Person"
+      name: "Esteve Farrés Berenguer"
+      role: "CSIC Tutor"
+    academicTutor:
+      "@type": "Person"
+      name: "Francisco José Fabra Cervellera"
+      role: "UAB Academic Tutor"
+
+  ## ---------------------------------------------------------------------------
+  ## 8. MEMORIES & CONSTRAINTS
+  ## ---------------------------------------------------------------------------
+  memories:
+    - id: "tfg-project-memory-1"
+      description: >
+        This project prioritises documentation quality, traceability, and
+        reproducibility. All artefacts must be non-operational, abstracted,
+        and compliant with CSIC confidentiality agreements.
+      relevance: "High"
+      context: "TFG Knowledge Management"
+
+  constraints:
+    confidentiality:
+      level: "CSIC Restricted"
+      reference: "CSIC Confidentiality Agreement signed by the student"
+    intellectualProperty:
+      owner: "CSIC"
+      disclosure: "Written authorisation required"
+
+---

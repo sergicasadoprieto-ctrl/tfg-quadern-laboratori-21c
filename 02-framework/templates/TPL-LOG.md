@@ -3,8 +3,7 @@
 # ========================
 # HOW TO USE THIS TEMPLATE:
 # 1. Copy this file to your logs/ folder
-# 2. Rename it following your naming convention
-#    Example: LOG-20260114T090000-ABC-1.00.md
+# 2. Rename it following your naming convention, Example: LOG-20260114T090000-ABC-1.00.md
 # 3. Fill in the YAML fields below
 # 4. Write your observations in the sections below
 # 5. Save and commit to Git
@@ -25,29 +24,23 @@ related: []
 
 ## Objective
 
-<!-- What did you want to achieve in this session?
-     One or two sentences is enough. -->
+<!-- What did you want to achieve in this session? One or two sentences is enough. -->
 
 ## Procedure
 
-<!-- What did you do, step by step?
-     Be specific: temperatures, times, concentrations. -->
+<!-- What did you do, step by step?  Be specific: temperatures, times, concentrations. -->
 
 ## Observations
 
-<!-- What did you see?
-     Include unexpected results and anomalies. -->
+<!-- What did you see? Include unexpected results and anomalies. -->
 
 ## Results
 
-<!-- What was the outcome?
-     Did it work? If not, what went wrong? -->
+<!-- What was the outcome?  Did it work? If not, what went wrong? -->
 
 ## Next Steps
 
-<!-- What needs to happen next?
-     What would you tell the next person
-     working on this project? -->
+<!-- What needs to happen next? What would you tell the next person working on this project? -->
 
 ---
 Generated with the QL21 Documentation Framework.

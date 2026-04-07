@@ -1,7 +1,18 @@
 All notable changes to this project will be documented here.
-Format based on [Keep a Changelog](https://keepachangelog.com).
-Versioning follows MAJOR.MINOR.PATCH.
+Format based on [Keep a Changelog](https://keepachangelog.com). Versioning follows MAJOR.MINOR.PATCH.
 
+## [0.1.5] — 2026-04-07
+
+### Added
+- SOW updated to v1.1 with O0 and O1 objectives
+- Governance manifests updated to final versions
+- sergi-casado-profile-1.1.yaml
+- tfg-project-manifest-1.2.yaml
+- tfg-branding-manifest-1.1.yaml
+
+### Changed
+- Project scope extended to include survey (O1)
+- DaC philosophy formally integrated (O0)
 ## [0.1.4] — 2026-02-20
 
 ### Added
