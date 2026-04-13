@@ -1,6 +1,11 @@
 All notable changes to this project will be documented here.
 Format based on [Keep a Changelog](https://keepachangelog.com). Versioning follows MAJOR.MINOR.PATCH.
 
+## [0.1.6] — 2026-04-13
+
+### Added
+- D1-state-of-the-art.md initial structure
+- Five key findings identified
 ## [0.1.5] — 2026-04-07
 
 ### Added
