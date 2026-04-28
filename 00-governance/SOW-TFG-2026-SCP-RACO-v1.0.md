@@ -1,14 +1,3 @@
----
-id: SOW-TFG-2026-SCP-RACO
-version: 1.1
-status: Active
-date: 2026-04-07
-projectType: Treball de Final de Grau (TFG)
-governanceModel: RACO / ECSS-M aligned
-institution: IMB-CNM-CSIC
-university: Universitat Autònoma de Barcelona
-confidentialityLevel: Restricted (Methodological Only)
----
 # Statement of Work
 
 ## TFG: El Quadern de Laboratori del Segle XXI

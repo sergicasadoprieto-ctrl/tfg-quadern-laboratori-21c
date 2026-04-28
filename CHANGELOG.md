@@ -1,6 +1,10 @@
 All notable changes to this project will be documented here.
 Format based on [Keep a Changelog](https://keepachangelog.com). Versioning follows MAJOR.MINOR.PATCH.
 
+## [0.1.8] — 2026-04-28
+
+### Changed
+- D1: Findings 3 and 4 completed
 ## [0.1.7] — 2026-04-20
 
 ### Changed
