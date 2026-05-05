@@ -1,12 +1,12 @@
 ---
 id: D1-state-of-the-art
 type: D1
-date: 2026-04-28
+date: 2026-05-05
 author: SCP
-version: 0.3
+version: 0.4
 status: Draft
 project: KM-TFG-QL21
-changelog: v0.3 - Findings 3 and 4 completed
+changelog: v0.4 - Finding 5 and key decisions completed
 ---
 
 # D1: State-of-the-Art Synthesis
@@ -24,7 +24,11 @@ The FAIR principles (Findable, Accessible, Interoperable, Reusable) provide a we
 The DaC philosophy, as discussed at Write the Docs Berlin 2025, proposes treating documentation with the same rigour as software: version control, structured formats, peer review. This is directly applicable to research documentation and justifies the use of Git, Markdown, and YAML in this framework.
 
 ## 5. AI as Collaborator
-[In progress]
+AI tools reduce documentation friction but do not replace researcher judgement. Confidentiality, hallucination risk, and academic integrity require human oversight at every step. The framework positions AI as an optional Layer 3 that degrades gracefully when unavailable.
 
 ## Key Decisions
-[In progress]
+- Format: Markdown + YAML (open, Git-compatible, FAIR)
+- Version control: Git + GitHub
+- Reference management: Zotero (open-source, BibTeX)
+- Editor: Obsidian (local-first, plain text)
+- AI: optional Layer 3, never for scientific content
