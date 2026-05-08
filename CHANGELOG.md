@@ -1,10 +1,25 @@
 All notable changes to this project will be documented here.
 Format based on [Keep a Changelog](https://keepachangelog.com). Versioning follows MAJOR.MINOR.PATCH.
 
+
+## [0.1.10] — 2026-05-08
+
+### Added
+- D1-state-of-the-art.md closed as v1.0 Final
+- Survey distribution begins (O1)
+- README updated to reflect current project status (new format)
+## [0.1.10] — 2026-05-08
+
+### Changed
+- D1-state-of-the-art.md closed as v1.0 Final
+- Survey distribution begins (O1)
 ## [0.1.9] — 2026-05-05
 
 ### Changed
 - D1: Finding 5 and key decisions completed
+
+## [0.1.8.1] — 2026-04-29
+Meeting with Esteve: confidential framework testing session
 ## [0.1.8] — 2026-04-28
 
 ### Changed
@@ -26,10 +41,17 @@ Format based on [Keep a Changelog](https://keepachangelog.com). Versioning follo
 - sergi-casado-profile-1.1.yaml
 - tfg-project-manifest-1.2.yaml
 - tfg-branding-manifest-1.1.yaml
+- Meeting with Esteve: SOW v1.1 and manifests updated
 
 ### Changed
 - Project scope extended to include survey (O1)
 - DaC philosophy formally integrated (O0)
+
+## [0.1.4.2] — 2026-04-04
+- Meeting with Fran: templates review
+
+## [0.1.4.1] — 2026-03-10
+- Meeting with Esteve: confidential framework testing session (afternoon)
 ## [0.1.4] — 2026-02-20
 
 ### Added

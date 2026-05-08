@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHANGELOG.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CHANGELOG"
+              "title": "README"
             }
           }
         ]
@@ -185,10 +185,12 @@
   },
   "active": "a4f194af3c7661aa",
   "lastOpenFiles": [
-    "01-literature/D1-state-of-the-art.md",
+    "03-pilot/README.md",
     "CHANGELOG.md",
-    "00-governance/SOW-TFG-2026-SCP-RACO-v1.0.md",
+    "05-journal/README.md",
     "README.md",
+    "01-literature/D1-state-of-the-art.md",
+    "00-governance/SOW-TFG-2026-SCP-RACO-v1.0.md",
     "00-governance/tfg-project-manifest-1.1.yaml.md",
     "00-governance/tfg-branding-manifest-1.0.yaml.md",
     "00-governance/sergi-casado-profile-1.1.yaml.md",
@@ -197,7 +199,6 @@
     "00-governance/sergi-casado-profile-1.1.yaml",
     "LICENSE.md",
     "04-outputs/README.md",
-    "03-pilot/README.md",
     "02-framework/README.md",
     "02-framework/templates/TPL-ZN.md",
     "02-framework/templates/TPL-RPT.md",
@@ -209,7 +210,6 @@
     "01-literature/README.md",
     "01-literature/notes/Sin nombre",
     "01-literature/notes",
-    "05-journal/README.md",
     "05-journal",
     "04-outputs",
     "03-pilot",

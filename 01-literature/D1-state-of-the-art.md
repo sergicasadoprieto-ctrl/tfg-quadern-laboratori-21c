@@ -1,14 +1,13 @@
 ---
 id: D1-state-of-the-art
 type: D1
-date: 2026-05-05
+date: 2026-05-08
 author: SCP
-version: 0.4
-status: Draft
+version: 1.0
+status: Final
 project: KM-TFG-QL21
-changelog: v0.4 - Finding 5 and key decisions completed
+changelog: v1.0 - D1 complete and closed
 ---
-
 # D1: State-of-the-Art Synthesis
 
 ## 1. The Reproducibility Crisis
