@@ -26,6 +26,15 @@ All notable changes to this project will be documented here. Format based on [Ke
 ### Changed
 - README updated with final project status
 
+## [0.1.11.1] — 2026-05-11
+
+### Added
+- LOG-20260508T090000-SCP-1.00.md: Survey distribution log
+- 113 valid responses collected
+
+### Milestones
+- Survey closed 2026-05-11
+- Data exported for processing
 ## [0.1.11] — 2026-05-19
 
 ### Added
