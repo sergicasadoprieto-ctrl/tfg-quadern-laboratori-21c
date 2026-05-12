@@ -26,6 +26,12 @@ All notable changes to this project will be documented here. Format based on [Ke
 ### Changed
 - README updated with final project status
 
+## [0.1.11.2] — 2026-05-12
+
+### Added
+- LOG-20260512T090000-SCP-1.00.md: Survey data processing log
+- Survey data processed with Python (Google Colab)
+- Power BI dashboard created with QL21 theme
 ## [0.1.11.1] — 2026-05-11
 
 ### Added
