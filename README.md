@@ -31,36 +31,38 @@ The pilot environment is **IMB-CNM-CSIC**, one of the largest nanofabrication re
 
 ## Repository Structure
 
+```text
 tfg-quadern-laboratori-21c/
 │
-├── 00-governance/              # Manifests and governance documents
+├── 00-governance/
 │   ├── sergi-casado-profile-1.1.yaml
 │   ├── tfg-project-manifest-1.2.yaml
 │   ├── tfg-branding-manifest-1.1.yaml
 │   └── SOW-TFG-2026-SCP-RACO-v1.1.md
 │
-├── 01-literature/              # Phase I — Literature review
-│   ├── notes/                  # Zettel notes from readings
-│   ├── references/             # BibTeX / Zotero exports
+├── 01-literature/
+│   ├── notes/
+│   ├── references/
 │   └── D1-state-of-the-art.md
 │
-├── 02-framework/               # Phase II — Framework design (D2)
-│   └── templates/              # Reusable document templates
+├── 02-framework/
+│   └── templates/
 │
-├── 03-pilot/                   # Phase III — Abstracted pilot
-│   ├── logs/                   # Lab logs (non-confidential)
-│   └── data/                   # Abstracted data only
+├── 03-pilot/
+│   ├── logs/
+│   └── data/
 │
-├── 04-outputs/                 # Phase IV — Final deliverables
+├── 04-outputs/
 │   ├── D5-tfg-memory/
 │   └── D6-defence-slides/
 │
-├── 05-journal/                 # Project journal — Zettel Notes
+├── 05-journal/
 │
 ├── README.md
 ├── CHANGELOG.md
 ├── LICENSE.md
 └── .gitignore
+```
 
 ---
 

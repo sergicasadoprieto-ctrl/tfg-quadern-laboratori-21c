@@ -1,6 +1,10 @@
 All notable changes to this project will be documented here.
 Format based on [Keep a Changelog](https://keepachangelog.com). Versioning follows MAJOR.MINOR.PATCH.
 
+## [0.1.11.1] — 2026-05-19
+
+### Added
+- README.md changed
 ## [0.1.11] — 2026-05-19
 
 ### Added
