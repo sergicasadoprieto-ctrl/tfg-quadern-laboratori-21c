@@ -1,7 +1,17 @@
 All notable changes to this project will be documented here.
 Format based on [Keep a Changelog](https://keepachangelog.com). Versioning follows MAJOR.MINOR.PATCH.
 
+## [0.1.11] — 2026-05-19
 
+### Added
+- TPL-LOG-SCP.md: Laboratory log adapted for QL21
+- TPL-ZN-SCP.md: Zettel Note adapted for QL21
+- TPL-RPT-SCP.md: Weekly report adapted for QL21
+- TPL-PROJ-SCP.md: Project document adapted for QL21
+- D5-tfg-memory/README.md added
+
+### Changed
+- Framework templates complete
 ## [0.1.10] — 2026-05-08
 
 ### Added

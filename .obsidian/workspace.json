@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "CHANGELOG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "CHANGELOG"
             }
           }
         ]
@@ -185,10 +185,23 @@
   },
   "active": "a4f194af3c7661aa",
   "lastOpenFiles": [
+    "02-framework/QL21 templates/PROJ-{YYYYMMDD}T{HHmmss}-SCP-1.00.md",
+    "02-framework/QL21 templates/LOG-{YYYYMMDD}T{HHmmss}-SCP-1.00.md",
+    "02-framework/QL21 templates/ZN-{YYYYMMDD}T{HHmmss}-SCP-1.00.md",
+    "02-framework/QL21 templates/RPT-{YYYYMMDD}T{HHmmss}-SCP-1.00.md",
+    "02-framework/generic templates/TPL-LOG.md",
+    "02-framework/QL21 templates/TPL-LOG-SCP.md",
+    "02-framework/QL21 templates/TPL-PROJ-SCP.md",
+    "02-framework/QL21 templates/TPL-RPT-SCP.md",
+    "02-framework/QL21 templates/TPL-ZN-SCP.md",
+    "02-framework/QL21 templates",
+    "02-framework/generic templates/TPL-PROJ.md",
+    "02-framework/generic templates/TPL-RPT.md",
+    "02-framework/generic templates/TPL-ZN.md",
+    "README.md",
     "03-pilot/README.md",
     "CHANGELOG.md",
     "05-journal/README.md",
-    "README.md",
     "01-literature/D1-state-of-the-art.md",
     "00-governance/SOW-TFG-2026-SCP-RACO-v1.0.md",
     "00-governance/tfg-project-manifest-1.1.yaml.md",
@@ -200,19 +213,13 @@
     "LICENSE.md",
     "04-outputs/README.md",
     "02-framework/README.md",
-    "02-framework/templates/TPL-ZN.md",
-    "02-framework/templates/TPL-RPT.md",
-    "02-framework/templates/TPL-PROJ.md",
-    "02-framework/templates/TPL-LOG.md",
     "01-literature/notes/ZN-20251114T100000-SCP-1.00.md",
     "00-governance/README.md",
-    "02-framework/templates",
-    "01-literature/README.md",
+    "02-framework/generic templates",
     "01-literature/notes/Sin nombre",
     "01-literature/notes",
     "05-journal",
     "04-outputs",
-    "03-pilot",
-    "02-framework"
+    "03-pilot"
   ]
 }
