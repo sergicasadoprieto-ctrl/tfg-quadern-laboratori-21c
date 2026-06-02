@@ -2,7 +2,7 @@
 
 > **The 21st Century Lab Notebook** — A practical, reusable documentation framework for experimental nanoscience research.
 
-![Status](https://img.shields.io/badge/status-active-1B5E20?style=flat-square) ![Phase|84](https://img.shields.io/badge/phase-II%2FIII-4CAF50?style=flat-square) ![Version](https://img.shields.io/badge/manifest-v1.2-1B5E20?style=flat-square) ![License](https://img.shields.io/badge/license-CSIC%20Restricted-F57C00?style=flat-square) ![Institution](https://img.shields.io/badge/IMB--CNM-CSIC-263238?style=flat-square) ![University](https://img.shields.io/badge/UAB-2025--2026-263238?style=flat-square)
+![Status](https://img.shields.io/badge/status-active-1B5E20?style=flat-square) ![Phase|84](https://img.shields.io/badge/phase-III%2FIV-4CAF50?style=flat-square) ![Version](https://img.shields.io/badge/manifest-v1.2-1B5E20?style=flat-square) ![License](https://img.shields.io/badge/license-CSIC%20Restricted-F57C00?style=flat-square) ![Institution](https://img.shields.io/badge/IMB--CNM-CSIC-263238?style=flat-square) ![University](https://img.shields.io/badge/UAB-2025--2026-263238?style=flat-square)
 
 ---
 
@@ -92,11 +92,12 @@ All artefacts follow a strict naming pattern:
 | ID  | Deliverable                   | Phase | Status         |
 | --- | ----------------------------- | ----- | -------------- |
 | D1  | State-of-the-Art Synthesis    | I     | ✅ Complete     |
-| D2  | Documentation Framework       | II    | ⏳ Pending      |
+| D2  | Documentation Framework       | II    | ✅ Complete     |
 | D3  | Pilot Repository (abstracted) | III   | 🔄 In Progress |
 | D4  | Guide of Best Practices       | IV    | ⏳ Pending      |
 | D5  | Final TFG Memory              | IV    | 🔄 In Progress |
 | D6  | Oral Defence Material         | IV    | ⏳ Pending      |
+|     |                               |       |                |
 
 ---
 
@@ -118,8 +119,6 @@ That is all that is required to achieve full traceability, reproducibility, and 
 ### With AI assistance — Layer 3 (optional)
 
 AI tools can reduce documentation friction but are never required. Use them only for structural and formatting tasks — never for scientific content.
-
-**Session 1 — Project initialisation**
 
 ### Starting a new project with this kit
 
