@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented here. Format based on [Keep a Changelog](https://keepachangelog.com). Versioning follows MAJOR.MINOR.PATCH.
 
+## [0.1.15] — 2026-06-04
+
+### Added
+- ZN-20250924T100000-AGC-1.00.md: Covariance matrix theory notes
+- ZN-20250924T110000-AGC-1.00.md: Spatial spectrum theory notes
+- Pilot A complete with 7 artefacts
+## [0.1.14] — 2026-06-03
+
+### Added
+- 03-pilot/pilot-a/ complete documentation
+- LOG-20251001T090000-AGC-1.00.md: Session 1 covariance matrix
+- LOG-20251008T090000-AGC-1.00.md: Session 2 Capon and MUSIC
+- LOG-20251015T090000-AGC-1.00.md: Session 3 demodulation
+- ZN-20251001T120000-AGC-1.00.md: Diagonal loading note
+- RPT-20251021T090000-AGC-1.00.md: Final report summary
+- 03-pilot/pilot-a/outputs/README.md
+
+### Milestones
+- Pilot A complete: framework validated without AI assistance
+
 ## [0.1.13] — 2026-06-02
 
 ### Added

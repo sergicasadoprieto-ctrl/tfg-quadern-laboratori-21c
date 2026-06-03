@@ -97,7 +97,7 @@ All artefacts follow a strict naming pattern:
 | D4  | Guide of Best Practices       | IV    | ⏳ Pending      |
 | D5  | Final TFG Memory              | IV    | 🔄 In Progress |
 | D6  | Oral Defence Material         | IV    | ⏳ Pending      |
-|     |                               |       |                |
+
 
 ---
 
