@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented here. Format based on [Keep a Changelog](https://keepachangelog.com). Versioning follows MAJOR.MINOR.PATCH.
 
+## [0.1.16] — 2026-06-09
+
+### Added
+- 04-outputs/D4-best-practices-guide.md: complete
+  guide of best practices for research documentation
+- Covers 7 sections: motivation, tools, project
+  setup, daily workflow, AI assistance, repository
+  maintenance, and project closure checklist
+
+### Milestones
+- D4 Guide of Best Practices complete
 ## [0.1.15] — 2026-06-04
 
 ### Added
